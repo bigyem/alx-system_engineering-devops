@@ -1,2 +1,2 @@
-0 string school school data
-! mime school
+#!/usr/bin/env file
+0 string school school data\n! mime school
