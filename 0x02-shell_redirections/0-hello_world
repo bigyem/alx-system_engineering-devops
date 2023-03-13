@@ -1,2 +1,2 @@
 #!/bin/sh
-echo "Hello, World" | sed 's/$/\n/'
+echo "Hello, World"
