@@ -1,0 +1,2 @@
+#!/bin/bash
+sudo find /etc/passwd -type u -o -type d | sort
